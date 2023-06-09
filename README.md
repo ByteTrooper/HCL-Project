@@ -1,2 +1,2 @@
 # HCL-Project
-a web based image editor
+I have completed the HTML part of my website, which is a web-based image editor. The HTML code sets up the structure, layout, and elements of the application. It includes tools for cropping, adjusting exposure, saturation, hue rotation, blur, and opacity. Users can upload images, apply various filters, and perform actions like undo, redo, and clear. The application also allows resizing images while maintaining aspect ratio. Additionally, a service worker is implemented for offline functionality. Overall, the HTML part of the website provides a solid foundation for the image editor, offering a user-friendly interface and a wide range of features for image editing.
